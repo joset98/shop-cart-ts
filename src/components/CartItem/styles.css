@@ -1,0 +1,13 @@
+.shopping-cart-image {
+    object-fit: cover;
+    width: 125px;
+    height: 75px;
+}
+
+.label-quantity {
+    font-size: 0.65rem;
+}
+
+.label-price {
+    font-size: 0.75rem;
+}

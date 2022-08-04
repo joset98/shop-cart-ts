@@ -1,0 +1,14 @@
+.cart-shop {
+    width: 3em;
+    height: 3em;
+    position: relative;
+}
+
+.notification-number {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    transform: translate(5%,5%);
+}
